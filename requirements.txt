@@ -1,6 +1,5 @@
 Django
 djangorestframework
-djangorestframework-authtoken
 django-cors-headers
 numpy
 pandas
